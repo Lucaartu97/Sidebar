@@ -200,7 +200,7 @@ const Sidebar = () => {
   }, "Impostazioni")))), /*#__PURE__*/React.createElement("div", {
     className: "sidebar-profileSection"
   }, /*#__PURE__*/React.createElement("img", {
-    src: "https://assets.codepen.io/3306515/i-know.jpg",
+    src: "https://www.pngall.com/wp-content/uploads/5/User-Profile-PNG-Image.png",
     width: "40",
     height: "40",
     alt: "Luca Ricci"
